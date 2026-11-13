@@ -51,7 +51,7 @@ Campus    : Telkom University (Information Systems)
 Mindset   : Data-Driven, Scalable & Clean Code
 Location  : Surabaya / Banyuwangi, Indonesia
 Work Mode : Remote | Hybrid | Onsite
-Prompt    : insights &gt; assumptions
+
 </pre>
       </td>
     </tr>
@@ -95,7 +95,10 @@ rifki@macbook:~$ ls -1 featured-projects/
 - 🤖 ChatBot-RAG-WA (https://github.com/Rifkilaroyba/ChatBot) – Intelligent AI assistant built with Retrieval-Augmented Generation (RAG) & LLM via WhatsApp.
 - 🏢 Employee-Attendance-System (https://github.com/Rifkilaroyba/Employee-Attendance-System) – Full-stack platform for employee attendance tracking, reporting, and dashboard analytics.
 - 📦 InventoryHub (https://github.com/Rifkilaroyba/InventoryHub) – Enterprise inventory and supply chain tracking software built with C# and relational databases.
-- 📊 Academic-Status-Prediction-DNN (https://github.com/Rifkilaroyba/app-status-akademik) – Deep Neural Network model analyzing student performance metrics for early academic risk classification.
+- ⛽ Pertamina-Gatepass (https://github.com/Rifkilaroyba/PertaminaWeb) – Enterprise gate pass & visitor tracking system for Pertamina.
+- 🛍️ KasirPro (https://rifkilaroyba.netlify.app) – Modern Point-of-Sale (POS) cashier application with real-time analytics.
+- 📚 EduLearn (https://rifkilaroyba.netlify.app) – Interactive e-learning and course management platform.
+- ⛅ Cuacaku (https://rifkilaroyba.netlify.app) – Weather forecasting web app with dynamic meteorological API integration.
 - 🌿 Infarm-Official-Chatbot (https://infarm-chatbot-rifki.vercel.app/) – Automated customer interaction and shopping assistant for urban farming products.
 
 ———
