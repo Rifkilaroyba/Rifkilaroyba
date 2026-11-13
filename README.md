@@ -62,7 +62,7 @@ Prompt    : insights &gt; assumptions
 
 <h2><code>~/profile</code></h2>
 
-```bash
+
 rifki@macbook:~$ whoami
 Information Systems student passionate about Data Analytics,
 Artificial Intelligence (LLM & RAG), and Full-Stack Web Engineering.
@@ -130,4 +130,4 @@ open for collaboration, data projects, and friendly chats
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2600&pause=800&color=39FF88&center=true&vCenter=true&width=760&lines=%24+git+commit+-m+%22keep+learning%2C+keep+building%22;%24+python+main.py+--train-model;%24+systemctl+status+data-service;%5B+active+%5D+data-service+is+running" alt="Animated Linux terminal footer" />
   </a>
 </p>
-```
+
