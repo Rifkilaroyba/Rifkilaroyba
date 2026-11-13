@@ -32,7 +32,7 @@
 
 ---
 
-<h2><code>neofetch</code></h2>
+<h2><code>WHOHOHO</code></h2>
 
 <table>
   <tbody>
@@ -59,19 +59,6 @@ Work Mode : Remote | Hybrid | Onsite
 </table>
 
 ---
-
-<h2><code>~/profile</code></h2>
-
-rifki@macbook:~$ whoami
-Information Systems student passionate about Data Analytics,
-Artificial Intelligence (LLM & RAG), and Full-Stack Web Engineering.
-
-rifki@macbook:~$ cat mission.txt
-Transform raw, complex data into actionable business intelligence
-and build reliable, user-friendly digital systems.
-
-rifki@macbook:~$ uptime --pretty
-learning, analyzing, engineering, improving
 
 ———
 <h2><code>~/experience</code></h2>
@@ -112,7 +99,7 @@ rifki@macbook:~$ ls -1 featured-projects/
 ———
 <h2><code>~/github-stats</code></h2>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rifkilaroyba&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rifki's GitHub stats" height="150" />
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rifkilaroyba&theme=radical&hide_border=true" alt="Rifki's GitHub Streak" height="150" />
 </p>
 
