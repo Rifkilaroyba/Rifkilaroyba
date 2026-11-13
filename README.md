@@ -51,7 +51,6 @@ Campus    : Telkom University (Information Systems)
 Mindset   : Data-Driven, Scalable & Clean Code
 Location  : Surabaya / Banyuwangi, Indonesia
 Work Mode : Remote | Hybrid | Onsite
-Prompt    : insights &gt; assumptions
 </pre>
       </td>
     </tr>
