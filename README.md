@@ -38,7 +38,7 @@
   <tbody>
     <tr>
       <td align="center" width="260">
-        <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="220" alt="Developer Coding Animation" />
+        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="Developer Coding Animation" />
       </td>
       <td>
 <pre>
