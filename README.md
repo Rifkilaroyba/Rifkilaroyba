@@ -51,6 +51,7 @@ Campus    : Telkom University (Information Systems)
 Mindset   : Data-Driven, Scalable & Clean Code
 Location  : Surabaya / Banyuwangi, Indonesia
 Work Mode : Remote | Hybrid | Onsite
+Prompt    : insights &gt; assumptions
 </pre>
       </td>
     </tr>
@@ -60,7 +61,6 @@ Work Mode : Remote | Hybrid | Onsite
 ---
 
 <h2><code>~/profile</code></h2>
-
 
 rifki@macbook:~$ whoami
 Information Systems student passionate about Data Analytics,
@@ -80,11 +80,12 @@ rifki@macbook:~$ cat experience.log
 
 | Period | Company / Organization | Role | Location |
 |:---|:---|:---|:---|
-| Feb 2026 - Jul 2026 | PT Agro Properti Selaras Bersama | Data Analyst & UI/UX Intern | Surabaya, ID |
-| 2024 - Present | Telkom University Surabaya | Data Mining Laboratory Assistant | Surabaya, ID |
-| 2024 | Pentaho Boot Camp | Data Integration Specialist | Remote |
+| Feb 2026 – Jul 2026 | PT Agro Properti Selaras Bersama | Data Analyst & UI/UX Intern | Surabaya, ID |
+| Jul 2025 – Present | Telkom University Surabaya | Data Mining Laboratory Assistant | Surabaya, ID |
+| 2024 | Pentaho Bootcamp | Data Integration Specialist (ETL & Modeling) | Remote |
 | 2024 | Ousean Indonesia | Data Analysis Fellow (Batch 1 & 2) | Remote |
 | 2024 | DQLab | SQL for Data Science with AI | Remote |
+| 2024 | TelXPLORE National Workshop | Public Relations Committee | Surabaya, ID |
 
 ———
 <h2><code>~/featured-projects</code></h2>
@@ -129,4 +130,3 @@ open for collaboration, data projects, and friendly chats
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2600&pause=800&color=39FF88&center=true&vCenter=true&width=760&lines=%24+git+commit+-m+%22keep+learning%2C+keep+building%22;%24+python+main.py+--train-model;%24+systemctl+status+data-service;%5B+active+%5D+data-service+is+running" alt="Animated Linux terminal footer" />
   </a>
 </p>
-
