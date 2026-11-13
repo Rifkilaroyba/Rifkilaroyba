@@ -1,8 +1,8 @@
 <h1 align="center"><code>rifki@macbook:~$ ./hello</code></h1>
 
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=650&color=39FF88&center=true&vCenter=true&width=860&lines=%24+sudo+systemctl+start+profile.service;%5B+OK+%5D+Loaded+Rifki+Laroyba+Fiddin;%24+neofetch+--data-and-software-engineer;Data+Analytics+%7C+AI+%26+RAG+%7C+Full-Stack+Web;%24+make+build+GOAL%3Dintelligent-solutions;%24+whereis+current-role;Information+Systems+%40+Telkom+University">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2400&pause=650&color=39FF88&center=true&vCenter=true&width=860&lines=%24+sudo+systemctl+start+profile.service;%5B+OK+%5D+Loaded+Rifki+Laroyba+Fiddin;%24+neofetch+--data-and-software-engineer;Data+Analytics+%7C+AI+%26+RAG+%7C+Full-Stack+Web;%24+make+build+GOAL%3Dintelligent-solutions;%24+whereis+current-role;Information+Systems+%40+Telkom+University" alt="Terminal boot animation" />
+  <a href="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2400&pause=650&color=39FF88&center=true&vCenter=true&width=860&lines=%24+sudo+systemctl+start+profile.service;%5B+OK+%5D+Loaded+Rifki+Laroyba+Fiddin;%24+neofetch+--data-and-software-engineer;Data+Analytics+%7C+AI+%26+RAG+%7C+Full-Stack+Web;%24+make+build+GOAL%3Dintelligent-solutions;%24+whereis+current-role;Information+Systems+%40+Telkom+University">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=20&duration=2400&pause=650&color=39FF88&center=true&vCenter=true&width=860&lines=%24+sudo+systemctl+start+profile.service;%5B+OK+%5D+Loaded+Rifki+Laroyba+Fiddin;%24+neofetch+--data-and-software-engineer;Data+Analytics+%7C+AI+%26+RAG+%7C+Full-Stack+Web;%24+make+build+GOAL%3Dintelligent-solutions;%24+whereis+current-role;Information+Systems+%40+Telkom+University" alt="Terminal boot animation" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
   <tbody>
     <tr>
       <td align="center" width="260">
-        <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220" alt="Developer Coding Animation" />
+        <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="220" alt="Pixel Art Coding Cat" />
       </td>
       <td>
 <pre>
@@ -62,6 +62,7 @@ Prompt    : insights &gt; assumptions
 
 <h2><code>~/profile</code></h2>
 
+```bash
 rifki@macbook:~$ whoami
 Information Systems student passionate about Data Analytics,
 Artificial Intelligence (LLM & RAG), and Full-Stack Web Engineering.
@@ -129,5 +130,4 @@ open for collaboration, data projects, and friendly chats
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2600&pause=800&color=39FF88&center=true&vCenter=true&width=760&lines=%24+git+commit+-m+%22keep+learning%2C+keep+building%22;%24+python+main.py+--train-model;%24+systemctl+status+data-service;%5B+active+%5D+data-service+is+running" alt="Animated Linux terminal footer" />
   </a>
 </p>
-
-———
+```
